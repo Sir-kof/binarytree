@@ -1,0 +1,12 @@
+{
+    "name": "binarytree/binarytree",
+    "require": {
+        "php": "^7.4",
+        "twbs/bootstrap": "^4.5"
+    },
+    "autoload": {
+        "psr-4": {
+            "BinaryTree\\": "src/"
+        }
+    }
+}
